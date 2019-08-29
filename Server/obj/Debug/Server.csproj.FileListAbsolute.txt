@@ -1,0 +1,14 @@
+F:\Projects\Test_Server_Client\Test_Server_Client\bin\Debug\Test_Server_Client.exe.config
+F:\Projects\Test_Server_Client\Test_Server_Client\bin\Debug\Test_Server_Client.exe
+F:\Projects\Test_Server_Client\Test_Server_Client\bin\Debug\Test_Server_Client.pdb
+F:\Projects\Test_Server_Client\Test_Server_Client\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\Projects\Test_Server_Client\Test_Server_Client\obj\Debug\Test_Server_Client.exe
+F:\Projects\Test_Server_Client\Test_Server_Client\obj\Debug\Test_Server_Client.pdb
+F:\Projects\Test_Server_Client\Test_Server_Client\obj\Debug\Server.csprojAssemblyReference.cache
+F:\Projects\MyConverterServerClient\Server\obj\Debug\Server.csprojAssemblyReference.cache
+F:\Projects\MyConverterServerClient\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\Projects\MyConverterServerClient\Server\bin\Debug\Server.exe.config
+F:\Projects\MyConverterServerClient\Server\bin\Debug\Server.exe
+F:\Projects\MyConverterServerClient\Server\bin\Debug\Server.pdb
+F:\Projects\MyConverterServerClient\Server\obj\Debug\Server.exe
+F:\Projects\MyConverterServerClient\Server\obj\Debug\Server.pdb
